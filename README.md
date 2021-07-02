@@ -7,6 +7,3 @@
 - 🐦 [Twitter](https://twitter.com/mhanisirfan)
 - 📷 [Instagram](https://instagram.com/m.hanisirfan)
 - 📹 [Youtube](https://www.youtube.com/channel/UCR89O-Myy-gmMVWj_MoISCQ)
-
-
-###### Currently planning final year project for our college with my friend. Will release it as open source when it's done and finalized.
