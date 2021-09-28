@@ -6,3 +6,5 @@
 🐦 [Twitter](https://twitter.com/mhanisirfan)\
 📷 [Instagram](https://instagram.com/m.hanisirfan)\
 📹 [Youtube](https://www.youtube.com/channel/UCR89O-Myy-gmMVWj_MoISCQ)
+
+Recognize contributions even for those who don't push code. Learn more about the All Contributors specification here: https://allcontributors.org.
